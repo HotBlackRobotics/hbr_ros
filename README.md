@@ -1,2 +1,2 @@
-DotBot ROS Metapackage
+HBR ROS Metapackage
 ======================
