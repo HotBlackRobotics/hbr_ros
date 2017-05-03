@@ -3,7 +3,7 @@
         <param name="framerate" value="30" />
         <param name="quality" value="10" />
     </node>
-    
+
     <node pkg="web_video_server" type="web_video_server" name="web_video_server">
     </node>
 </launch>

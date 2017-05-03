@@ -1,6 +1,6 @@
 <launch>
 	<group ns="$(env DOTBOT_NAME)">
-		<node name="dotbot_driver" pkg="dotbot_driver" type="driver.py">
+		<node name="hbr_driver" pkg="hbr_driver" type="driver.py">
 		</node>
 	</group>
 </launch>

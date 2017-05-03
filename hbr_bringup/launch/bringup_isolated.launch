@@ -1,4 +1,4 @@
 <launch>
-    <include file="$(find dotbot_bringup)/launch/bringup.launch" />
+    <include file="$(find hbr_bringup)/launch/bringup.launch" />
     <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch" />
 </launch>
